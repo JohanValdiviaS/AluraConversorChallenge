@@ -1,3 +1,4 @@
+![Captura de pantalla del conversor](Badge-Conversor.png)
 # Alura Challenge - Conversor Completo
 
 Este proyecto es parte del Alura Challenge y consiste en desarrollar un conversor que puede convertir diferentes unidades de medida. El conversor está diseñado para ser fácil de usar y expandir, permitiendo agregar nuevas unidades y conversiones según sea necesario.
